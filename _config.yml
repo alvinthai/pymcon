@@ -11,7 +11,7 @@ markdown: kramdown
 
 logo: "../css/2017_style/img/logos/pymcon_logo.png"
 
-include: ['_2016_pages', '_2017_pages']
+include: ['_2016_pages', '_2017_pages', 'schedule_files']
 
 plugins:
   - jekyll-sitemap
