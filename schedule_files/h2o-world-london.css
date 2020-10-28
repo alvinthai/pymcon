@@ -405,7 +405,7 @@ body.h2o .container {
     width: 100%;
     margin: 0 auto;
     padding: 0 20px;
-    max-width: 1150px;
+    max-width: 1065px;
     position: relative;
 }
 
@@ -4364,7 +4364,7 @@ body.h2o .events-schedule .col-outer:before {
 }
 
 body.h2o .events-schedule .col-grid {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     float: left;
     width: 100%;
 }
@@ -5382,7 +5382,7 @@ body.h2o .events-schedule.explain-event .three-col.gary .col-three {
 }
 
 body.h2o .events-schedule.explain-event.events-schedule .col-grid {
-    width: calc(100% + 10px);
+    width: calc(100% + 0px);
     margin-left: -5px;
 }
 
@@ -5425,10 +5425,9 @@ body.h2o .events-schedule.explain-event .col-grid .column.we-inner-col-2 {
 body.h2o .events-schedule.explain-event .col-grid .column.we-inner-col-3 {
     width: calc(33.33% - 40px) !important;
     margin-left: 20px;
-    margin-right: 20px;
     float: left;
-    min-width: 300px !important;
-    min-height: 74px !important;
+    min-width: 300px;
+    min-height: 74px;
 }
 
 body.h2o .events-schedule.explain-event .col-grid .column.we-inner-col-4 {
