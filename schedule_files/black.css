@@ -9,10 +9,10 @@ Copyright © All rights Reserved
 Surjith S M / @surjithctly
 
 */
-/* 
+/*
    COLOR PALLETTES : Black
    ------------------------------------------------
-  
+
    Black 1        : #444349;
    Dark Grey      : #3b3b3b;
    Medium Grey    : #5c5c5c;
@@ -20,7 +20,7 @@ Surjith S M / @surjithctly
    Lightest Grey  : #C2C2C2;
    White          : #ffffff;
 
-   
+
    */
 /* ================================================
    THEME SPECIFIC STYLES : VISUAL STYLES ONLY
@@ -69,7 +69,7 @@ body,
 
 ::selection {
     background: #444349;
-    color: #FFF;
+    color: #4d4d4d;
 }
 
 .header {
@@ -126,7 +126,7 @@ a:focus {
 .nav-pills>li.active>a:hover {
     background-color: #444349;
 }
-/* 
+/*
   BUTTONS
   ------- */
 
