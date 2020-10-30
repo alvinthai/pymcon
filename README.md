@@ -1,11 +1,4 @@
-# Repo for Pymcon webpage
+The link below provides a schedule page template for conference events:
+https://alvinthai.github.io/pymcon/schedule
 
-## To run locally
-
-1. Get the jekyll docker image with `docker pull jekyll/jekyll`
-2. Get into container bash with `make serve`
-3. Run `bundle install` in docker shell
-4. Run `bundle exec jekyll serve --incremental -H 0.0.0.0` in docker shell
-
-At this point you should be able to connect to server using a browser at
-`127.0.0.1:4000` or open the local `index.html` file in the build.
+Design inspired from H2O AI World London 2018
